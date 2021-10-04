@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yilun.chen@web.de
+	name = Yilun Chen
